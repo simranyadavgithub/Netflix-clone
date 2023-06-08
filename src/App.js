@@ -4,7 +4,7 @@ import Row from "./Row.js";
 import requests from './requests';
 import Banner from './Banner.js'
 import Nav from './Nav.js'
-
+//function app
 function App() {
   return (
     <div className="app">
